@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Pedro Santana 👋
+
+<p align="center">
+  <img src="https://i.imgur.com/ApDqvTw.png" alt="pedrsntana header" />
+</p>
 
 <!--
 **0xZ0uk/0xZ0uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
