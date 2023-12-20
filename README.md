@@ -4,6 +4,18 @@
   <img src="https://i.imgur.com/ApDqvTw.png" alt="pedrsntana-header" />
 </p>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pedrsantana/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/pedrsntana">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="https://medium.com/@pedro97sntana">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+  </a>
+</div>
+
 I am a self-taught developer with over 10 years ✨ experience. My prefered tools are TypeScript, React, Next.js and Firebase.
 Currently working has a Freelance Fullstack Developer, building my own apps on my free time.
 - 🔭 I’m currently working on [Coletivo](https://coletivo.pt)
