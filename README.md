@@ -1,8 +1,14 @@
 ### Hey, I'm Pedro Santana 👋
 
 <p align="center">
-  <img src="https://i.imgur.com/ApDqvTw.png" alt="pedrsntana header" />
+  <img src="https://i.imgur.com/ApDqvTw.png" alt="pedrsntana-header" />
 </p>
+
+I am a self-taught developer with over 10 years ✨ experience. My prefered tools are TypeScript, React, Next.js and Firebase.
+Currently working has a Freelance Fullstack Developer, building my own apps on my free time.
+- 🔭 I’m currently working on [Coletivo](https://coletivo.pt)
+- 🌱 I’m currently learning Langchain and Web Security
+- 📫 How to reach me: email me at pedrsntana@skiff.com, or say "Hello" on Twitter/X.
 
 <!--
 **0xZ0uk/0xZ0uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
