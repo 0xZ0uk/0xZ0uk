@@ -22,7 +22,6 @@ Currently working has a Freelance Fullstack Developer, building my own apps on m
 - 🌱 I’m currently learning Langchain and Web Security
 - 📫 How to reach me: email me at pedrsntana@skiff.com, or say "Hello" on Twitter/X.
 
-
 🧰 My Toolset:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,6 +33,11 @@ Currently working has a Freelance Fullstack Developer, building my own apps on m
 ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<div id="streak" align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xZ0uk&theme=dark&card_width=1080" alt="GitHub Streak" /></a>
+</div>
 
 
 <!--
