@@ -16,12 +16,6 @@
   </a>
 </div>
 
-I am a self-taught developer with over 10 years ✨ experience. My prefered tools are TypeScript, React, Next.js and Firebase.
-Currently working has a Freelance Fullstack Developer, building my own apps on my free time.
-- 🔭 I’m currently working on [Coletivo](https://coletivo.pt)
-- 🌱 I’m currently learning Langchain and Web Security
-- 📫 How to reach me: email me at pedrsntana@skiff.com, or say "Hello" on Twitter/X.
-
 ---
 
 🧰 My Toolset:
